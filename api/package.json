@@ -1,6 +1,19 @@
 {
+  "name": "license-server-api",
+  "version": "1.0.0",
+  "description": "MongoDB License Verification API on Vercel",
+  "main": "api/verify.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "vercel",
+    "mongodb",
+    "serverless"
+  ],
+  "author": "",
+  "license": "ISC",
   "dependencies": {
-    "mongodb": "^5.9.1", 
-    "vercel-serverless": "^0.6.0" 
+    "mongodb": "^5.9.1" 
   }
 }
