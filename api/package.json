@@ -1,5 +1,6 @@
 {
   "dependencies": {
-    "mongodb": "^6.3.0"
+    "mongodb": "^5.9.1", 
+    "vercel-serverless": "^0.6.0" 
   }
 }
